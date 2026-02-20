@@ -12,6 +12,7 @@
 let firstName = "Annisa";
 let lastName = "Puspitasari";
 let thisYear = 2026;
+let birthYear = 2003;
 
 
 
