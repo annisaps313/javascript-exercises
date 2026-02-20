@@ -11,6 +11,7 @@
 
 let firstName = "Annisa";
 let lastName = "Puspitasari";
+let thisYear = 2026;
 
 
 
