@@ -7,8 +7,8 @@ describe('step 2', () => {
   test('lastName is Puspitasari', () => {
     expect(values.lastName).toEqual('Puspitasari');
   });
-  test('thisYear is 1965', () => {
-    expect(values.thisYear).toEqual(1965);
+  test('thisYear is 2026', () => {
+    expect(values.thisYear).toEqual(2026);
   });
   test.skip('birthYear is 1947', () => {
     expect(values.birthYear).toEqual(1947);
