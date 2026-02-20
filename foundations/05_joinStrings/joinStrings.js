@@ -13,6 +13,7 @@ let firstName = "Annisa";
 let lastName = "Puspitasari";
 let thisYear = 2026;
 let birthYear = 2003;
+let greeting = `Hello! My name is ${firstName + " " + lastName} and I am ${thisYear - birthYear} years old.`
 
 
 
