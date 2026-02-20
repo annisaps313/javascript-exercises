@@ -1,7 +1,7 @@
 const values = require('./joinStrings')
 
 describe('step 2', () => {
-  test('firstName is Carlos', () => {
+  test('firstName is Annisa', () => {
     expect(values.firstName).toEqual('Annisa');
   });
   test.skip('lastName is Stevenson', () => {
