@@ -4,10 +4,10 @@ describe('step 2', () => {
   test('firstName is Annisa', () => {
     expect(values.firstName).toEqual('Annisa');
   });
-  test.skip('lastName is Stevenson', () => {
-    expect(values.lastName).toEqual('Stevenson');
+  test('lastName is Puspitasari', () => {
+    expect(values.lastName).toEqual('Puspitasari');
   });
-  test.skip('thisYear is 1965', () => {
+  test('thisYear is 1965', () => {
     expect(values.thisYear).toEqual(1965);
   });
   test.skip('birthYear is 1947', () => {
